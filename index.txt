@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ma Page Web</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+
+    .description {
+      font-size: 18px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+<h1 style="color:green;"><u>BIENVENU SUR MA PAGE</u></h1>
+<h1><u>Photo 1</u></h1>
+<img src="maison 1.jpg" alt="Ma première image">
+  <p class="description">Ceci est une belle image que j'ai ajoutée.</p>
+  <h1><u>Photo 2</u></h1>
+  <img src="maison 2.jpg" alt="Ma deuxième image">
+  <p class="description">Voici une autre image .</p>
+  <!Doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF">
+        <meta name="viewport"content=""
+        <title><h2><u>Devise De la maison</u></h2></title>
+    </head>
+<body>
+    <p>motif:<h2><u>Finisage non complet</u>.</h2>  Donc pas de pavement ni carreau et autres:</p>
+    <ol>
+        <li>Nombre des briques:200. par brique 400fc = 80 000fc </li>
+        <li>Une porte=120 000fc</li>
+        <li>Deux Fenetres= 80 000fc</li>
+        <li>Deux sacs de ciment= 90 000fc</li>
+        <li>Accesoir(transport, etc):25000fc</li>
+        <li>cripsage a l'interieur de la maison: 8 sacs de ciment~360 000fc </li>
+        <h2><li style="color:red">Total: 395 000 fc + 360 000fc = 755 000 fc </li></h2>
+    </ol>
+    <h2>Devise Dans le tableau</h2>
+    <table border="15">
+        <thead>
+            <tr>
+                <td>N°</td>
+                <td> INTITULES </td>
+                 <td> QUANTITES </td>
+                <td> Prix Uniteur </td>
+                <td> Prix Total </td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+              <td>1</td>
+              <td> Nombre des briques </td>
+               <td> 200 </td>
+               <td> 400 fc </td>
+               <td> 80 000 fc </td>
+            </tr>
+             <tr>
+              <td>2</td>
+              <td> Porte </td>
+               <td>1</td>
+               <td> 120 000 fc </td>
+               <td> 120 000 fc </td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td> FENETRES </td>
+               <td>2</td>
+               <td> 40 000 fc </td>
+               <td> 80 000 fc </td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td> Ciment pour la construiction </td>
+               <td>2</td>
+               <td> 45 000 fc </td>
+               <td> 90 000 fc </td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td> ciment cripsage a l'interieur de la maison </td>
+               <td>8</td>
+               <td> 45 000 fc </td>
+               <td> 360 000 fc </td>
+            </tr>
+            <tr>
+              <td>  6</td>
+              <td> Accessoir </td>
+               <td>  ???</td>
+               <td>  ???</td>
+               <td>  25 000 fc </td>
+            </tr>
+            <tr>
+              <td>   7</td>
+              <td> Total </td>
+              <td>||</td>
+              <td>||</td>
+              <td>   755 000 fc  </td>
+            </tr>
+        </tbody>
+        <tfoot>
+             <tr>
+                <td>  N° </td>
+                <td> INTITULES </td>
+                <td> QUANTITES </td>
+                <td> Prix Uniteur </td>
+                <td> Prix Total </td>
+            </tr>
+        </tfoot>
+    </table border="12">
+    <p><u>NOTRE PATRON</u></p>
+    <h2>Docteur GASPARD WAKA</h2>
+    <img src="Docteur.jpg" alt="Ma deuxième image">
+    <p>travailleur</p>
+    <h2 style="color:blue;">L'homme de la parole</h2>
+    <img src="Waka.jpg" alt="Ma deuxième image">
+    <h1>STEEVE WAKA</h1>
+</body>
+</html>
+
+</body>
+</html>
+
