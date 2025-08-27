@@ -1,2 +1,2 @@
-# Index.text
+# Index.html
 Mon premier site web
